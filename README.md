@@ -201,14 +201,16 @@ flowchart LR
     Paciente -->|"V_s,PID"| Vs
     Paciente -->|"Retroalimentación"| Sum
 
-    classDef signal fill:#e1f5fe,stroke:#0288d1,stroke-width:2px
-    classDef system fill:#fff3e0,stroke:#f57c00,stroke-width:2px
-    classDef control fill:#e8f5e9,stroke:#388e3c,stroke-width:2px
-    classDef sum fill:#f3e5f5,stroke:#8e24aa,stroke-width:2px
+    classDef signal fill:#2563eb,stroke:#1d4ed8,color:#ffffff,stroke-width:1px
+    classDef controlSystem fill:#f59e0b,stroke:#d97706,color:#111827,stroke-width:1px
+    classDef caseSystem fill:#dc2626,stroke:#b91c1c,color:#ffffff,stroke-width:1px
+    classDef pidControl fill:#16a34a,stroke:#15803d,color:#ffffff,stroke-width:1px
+    classDef sum fill:#7c3aed,stroke:#6d28d9,color:#ffffff,stroke-width:1px
 
     class Ve,Vs signal
-    class Sano,Paciente system
-    class PID control
+    class Sano controlSystem
+    class Paciente caseSystem
+    class PID pidControl
     class Sum sum
 ```
 
@@ -263,10 +265,10 @@ flowchart TD
 
     P --> Q(["Documentación final en GitHub"])
 
-    classDef inicio fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
-    classDef proceso fill:#fff8e1,stroke:#ff8f00,stroke-width:2px
-    classDef lab fill:#fce4ec,stroke:#c2185b,stroke-width:2px
-    classDef final fill:#e8f5e9,stroke:#2e7d32,stroke-width:3px
+    classDef inicio fill:#1d4ed8,stroke:#1e40af,color:#ffffff,stroke-width:1px
+    classDef proceso fill:#d97706,stroke:#b45309,color:#ffffff,stroke-width:1px
+    classDef lab fill:#be185d,stroke:#9d174d,color:#ffffff,stroke-width:1px
+    classDef final fill:#15803d,stroke:#166534,color:#ffffff,stroke-width:1px
 
     class A inicio
     class B,C,D,E,F,H,I,J,K,P proceso
@@ -310,13 +312,13 @@ flowchart TD
 ├── Angel23212731_P4.mlx
 ├── Angel23212731_P4.pdf
 ├── Angel23212731_P4.py
-├── ControlCaso_Lab.png
 ├── CITATION.cff
-├── grafica_lab.jpeg
 ├── LICENSE
-├── matlab_Control&Caso.pdf
+├── P4_caso_py.jpeg
 ├── Practica4_MSF1_MAT.slx
 ├── README.md
+├── grafica_lab.jpeg
+├── matlab_Control&Caso.pdf
 ├── SistemaEndocrino_Biorender.png
 
 
