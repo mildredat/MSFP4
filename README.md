@@ -235,7 +235,7 @@ A continuación se listan las evidencias de las distintas implementaciones y sim
 | Plataforma / Escenario | Evidencia generada | 
 | ----- | ----- | 
 | **Análisis Matemático (Manual)** | [`AnalisisCuaderno_P4_23212731.pdf`](AnalisisCuaderno_P4_23212731.pdf) | 
-| **MATLAB / Simulink** | \[`matlab_Control&Caso.pdf`](matlab_Control&Caso.pdf) | 
+| **MATLAB / Simulink** | [`matlab_Control&Caso.pdf`](matlab_Control&Caso.pdf) | 
 | **Python** | [`Angel23212731_P4.py`](Angel23212731_P4.py) | 
 | **Laboratorio (Osciloscopio)** | [`grafica_lab.jpeg`](grafica_lab.jpeg) | 
 
@@ -292,13 +292,13 @@ flowchart TD
 
 * \[x\] **6. Ecuaciones integro-diferenciales:** Formuladas.
 
-* \[x\] **7. Simulación en Simulink:** `Practica4.slx`.
+* \[x\] **7. Simulación en Simulink:** `Practica4_MSF1_MAT.slx`.
 
-* \[x\] **8-13. Simulación computacional:** Evidenciado en `Trinidad23212240.mlx` y `Trinidad23212240.py`.
+* \[x\] **8-13. Simulación computacional:** Evidenciado en `Angel23212731_P4.mlx` y `Angel23212731_P4.py`.
 
-* \[x\] **14-15. Sintonización PID:** Ganancias calculadas y evidencia subida (`PID_P4.png`).
+* \[x\] **14-15. Sintonización PID:** Ganancias calculadas y evidencia subida (`Ganancias_PID.png`).
 
-* \[x\] **16. Laboratorio lazo abierto:** Evidencia subida en `ControlCaso_Lab.png`.
+* \[x\] **16. Laboratorio lazo abierto:** Evidencia subida en `grafica_lab.jpeg`.
 
 * \[x\] **19. Repositorio GitHub:** README documentado, organizado y con metadatos.
 
