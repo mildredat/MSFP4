@@ -235,7 +235,7 @@ A continuación se listan las evidencias de las distintas implementaciones y sim
 | Plataforma / Escenario | Evidencia generada | 
 | ----- | ----- | 
 | **Análisis Matemático (Manual)** | [`AnalisisCuaderno_P4_23212731.pdf`](AnalisisCuaderno_P4_23212731.pdf) | 
-| **MATLAB / Simulink** | \[`matlab_Control&Caso.pdf`\](matlab_Control&Caso.pdf) | 
+| **MATLAB / Simulink** | \[`matlab_Control&Caso.pdf`](matlab_Control&Caso.pdf) | 
 | **Python** | [`Angel23212731_P4.py`](Angel23212731_P4.py) | 
 | **Laboratorio (Osciloscopio)** | [`grafica_lab.jpeg`](grafica_lab.jpeg) | 
 
