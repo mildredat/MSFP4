@@ -313,6 +313,7 @@ flowchart TD
 ├── Angel23212731_P4.pdf
 ├── Angel23212731_P4.py
 ├── CITATION.cff
+├── Ganancias_PID.jpeg
 ├── LICENSE
 ├── P4_caso_py.jpeg
 ├── Practica4_MSF1_MAT.slx
