@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Práctica: Modelado y control del sistema endócrino'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Mildred
+    family-names: 'Angel '
+    email: l23212731@tectijuana.edu.mx
+    name-particle: MILDRED
+    affiliation: TecNM - ITT
+repository-code: 'https://github.com/mildredat/MSFP4'
+keywords:
+  - Sistema endócrino
+  - Analogía eléctrica
+  - Caso y control
+  - Función de transferencia
+  - Controlador PID
+  - Secreción hormonal
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-11-18'
