@@ -94,7 +94,7 @@ La práctica integra contenidos correspondientes a las unidades de la asignatura
 
 A continuación se ilustra el esquema del modelo fisiológico comparando la condición **Control** (individuo sano) y **Caso** (paciente). El diagrama detalla la analogía entre los procesos biológicos del sistema endócrino (secreción, transporte y absorción en el tejido diana) y los componentes eléctricos equivalentes ($R_1, C, L, R_2$):
 
-![Diagrama fisiológico del sistema endócrino](SistemaEndocrinoBIORENDER.png)
+![Diagrama fisiológico del sistema endócrino](SistemaEndocrino_Biorender.png)
 
 ### Topología del circuito equivalente
 
