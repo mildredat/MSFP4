@@ -16,7 +16,7 @@ El caso de estudio representa los procesos de **secreción, transporte, almacena
 
 **Programa:** Ingeniería Biomédica
 
-**Estudiante:** Trinidad Diaz Kiara Vianney · 23212240
+**Estudiante:** Angel Torales Mildred - 23212731
 
 **Sede:** Blvd. Alberto Limón Padilla s/n, Tijuana, C. P. 22454, B. C., México.
 
