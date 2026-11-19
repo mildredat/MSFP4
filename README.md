@@ -218,7 +218,7 @@ flowchart LR
 
 ## Reproducción en Python
 
-Mediante el script `Trinidad23212240.py`, se reprodujo de forma independiente el comportamiento del sistema endócrino comprobando las funciones de transferencia y la simulación de lazo cerrado alimentado por la salida del sistema Control, generando las gráficas correspondientes.
+Mediante el script `Angel23212731_P4.py`, se reprodujo de forma independiente el comportamiento del sistema endócrino comprobando las funciones de transferencia y la simulación de lazo cerrado alimentado por la salida del sistema Control, generando las gráficas correspondientes.
 
 [Volver al contenido](#contenido)
 
