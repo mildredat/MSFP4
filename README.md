@@ -169,7 +169,7 @@ Con base en el desarrollo de la práctica, se realizó el análisis de la ecuaci
 
 ## Implementación en MATLAB, Simulink y Simscape
 
-Se construyeron las representaciones equivalentes para la condición **Control** y **Caso** en el archivo `Practica4.slx`. La ejecución desde el cuaderno interactivo `Trinidad23212240.mlx` extrae las señales y genera las figuras comparativas pertinentes donde se observa gráficamente la diferencia de ganancia y tiempos de establecimiento calculada analíticamente.
+Se construyeron las representaciones equivalentes para la condición **Control** y **Caso** en el archivo `Practica4_MSF1_MAT.slx`. La ejecución desde el cuaderno interactivo `Angel23212731_P4.mlx` extrae las señales y genera las figuras comparativas pertinentes donde se observa gráficamente la diferencia de ganancia y tiempos de establecimiento calculada analíticamente.
 
 [Volver al contenido](#contenido)
 
