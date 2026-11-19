@@ -60,7 +60,7 @@ La práctica tiene como propósito **formular, analizar, simular, controlar y va
 
 Mediante las leyes de Kirchhoff y la transformada de Laplace se obtienen el modelo integro-diferencial, su representación en espacio de estados y las funciones de transferencia correspondientes a dos escenarios fisiológicos: **Control** (individuo sano) y **Caso** (paciente con alteración en las propiedades de almacenamiento $C$ y disipación $R_2$). Posteriormente, se implementa un **controlador PID en lazo cerrado** cuya referencia es la propia respuesta del individuo sano ( $e(t) = V_{s,control}(t) - V_{s,caso}(t)$ ). Los resultados obtenidos en MATLAB/Simulink y Python se contrastan con el montaje físico en protoboard y las mediciones del osciloscopio.
 
-**Palabras clave:** Sistema endócrino; Analogía eléctrica RLC; Control y caso; Controlador PID; Modelado de sistemas fisiológicos; MATLAB; Simulink; Python.
+**Palabras clave:** Sistema endócrino; Analogía eléctrica; Caso y control; Función de transferencia; Controlador PID; Secreción hormonal.
 
 [Volver al contenido](#contenido)
 
@@ -232,11 +232,10 @@ A continuación se listan las evidencias de las distintas implementaciones y sim
 
 | Plataforma / Escenario | Evidencia generada | 
 | ----- | ----- | 
-| **Análisis Matemático (Manual)** | [`AnalisisMatematicoP4.pdf`](AnalisisMatematicoP4.pdf) | 
-| **MATLAB / Simulink** | \[`Control y caso.matlab.pdf`\](Control\\ y\\ caso.matlab.pdf) | 
-| **Sintonización PID** | [`PID_P4.png`](PID_P4.png) | 
-| **Python** | [`Control_caso_python4.pdf`](Control_caso_python4.pdf) | 
-| **Laboratorio (Osciloscopio)** | [`ControlCaso_Lab.png`](ControlCaso_Lab.png) | 
+| **Análisis Matemático (Manual)** | [`AnalisisCuaderno_P4_23212731.pdf`](AnalisisCuaderno_P4_23212731.pdf) | 
+| **MATLAB / Simulink** | \[`matlab_Control&Caso.pdf`\](matlab_Control&Caso.pdf) | 
+| **Python** | [`Angel23212731_P4.py`](Angel23212731_P4.py) | 
+| **Laboratorio (Osciloscopio)** | [`grafica_lab.jpeg`](grafica_lab.jpeg) | 
 
 [Volver al contenido](#contenido)
 
@@ -307,19 +306,19 @@ flowchart TD
 
 ```
 .
-├── AnalisisMatematicoP4.pdf
-├── CITATION.cff
-├── Control_caso_python4.pdf
-├── Control y caso.matlab.pdf
+├── AnalisisCuaderno_P4_23212731.pdf
+├── Angel23212731_P4.mlx
+├── Angel23212731_P4.pdf
+├── Angel23212731_P4.py
 ├── ControlCaso_Lab.png
+├── CITATION.cff
+├── grafica_lab.jpeg
 ├── LICENSE
-├── PID_P4.png
-├── Practica4.slx
+├── matlab_Control&Caso.pdf
+├── Practica4_MSF1_MAT.slx
 ├── README.md
-├── SistemaEndocrinoBIORENDER.png
-├── Trinidad23212240.mlx
-├── Trinidad23212240.pdf
-└── Trinidad23212240.py
+├── SistemaEndocrino_Biorender.png
+
 
 ```
 
