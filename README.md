@@ -115,7 +115,7 @@ A partir de las hipótesis fisiológicas del sistema endócrino, el circuito equ
 
 ### 1. Ecuaciones integro-diferenciales
 
-Con base en el análisis analítico (`AnalisisMatematicoP4.pdf`), aplicando las leyes de Kirchhoff se obtienen las siguientes ecuaciones:
+Con base en el análisis analítico (`AnalisisCuaderno_P4_23212731.pdf`), aplicando las leyes de Kirchhoff se obtienen las siguientes ecuaciones:
 
 $$
 V_e(t) = R_1 F_e(t) + \frac{1}{C}\int (F_e(t) - F_s(t)) dt
